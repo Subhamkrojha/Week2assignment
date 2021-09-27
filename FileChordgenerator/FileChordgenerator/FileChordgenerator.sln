@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileChordgenerator", "FileChordgenerator\FileChordgenerator.csproj", "{26634234-C74C-402E-94D5-2D7418DDF7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26634234-C74C-402E-94D5-2D7418DDF7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26634234-C74C-402E-94D5-2D7418DDF7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26634234-C74C-402E-94D5-2D7418DDF7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26634234-C74C-402E-94D5-2D7418DDF7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07836F05-2B4C-4C61-A7C3-5E1B6B230266}
+	EndGlobalSection
+EndGlobal
